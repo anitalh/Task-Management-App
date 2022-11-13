@@ -28,7 +28,7 @@ public class Todo {
 		this.targetDate = targetDate;
 		this.isDone = isDone;
 	}
-
+        // Getters and setters for Task Management App
 	public Long getId() {
 		return id;
 	}
